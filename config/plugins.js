@@ -1,5 +1,5 @@
 module.exports = ({ env }) => ({
-  users-permissions: {
+  "users-permissions": {
     jwtSecret: "2Fj1le5TfmxFi2/e0wBV6Q==",
   },
   slugify: {

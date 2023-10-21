@@ -9,6 +9,7 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
+  
   "dependencies": {
     "@strapi/plugin-i18n": "4.14.2",
     "@strapi/plugin-users-permissions": "4.14.2",
@@ -30,7 +31,7 @@
     "uuid": "920a9e8f-8ce7-4666-aa19-ec09439e31cd"
   },
   "engines": {
-    "node": ">=16.0.0 <=20.x.x",
+    "node": "18.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"

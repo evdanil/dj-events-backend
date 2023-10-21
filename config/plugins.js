@@ -1,4 +1,7 @@
 module.exports = ({ env }) => ({
+  users_permissions: {
+    jwtSecret: "2Fj1le5TfmxFi2/e0wBV6Q==",
+  },
   slugify: {
     enabled: true,
     config: {
